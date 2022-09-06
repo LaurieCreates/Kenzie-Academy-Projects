@@ -1,0 +1,7 @@
+"Id","ArtistName","DateCreated","DatePosted","ForSale","Height","Price","Sold","Title","Width"
+"31bdc53a-123c-4c43-a260-dc3c05b7da6f","Laurie","2022-01-02","2022-07-08","true","12","50","false","Artwork","48"
+"6806065f-a029-4a91-873e-7362cbd474b9","Kenzie","2021-07-08","2022-07-09","false","20","100","false","Skills","20"
+"0e145c5e-d266-4ab1-8c92-1a45498a6e92","TestName","2021-01-01","2022-07-08","false","60","30","false","TestTitle","72"
+"6afb6ed2-e095-4da6-80fb-61f590e99437","Amed","2022-04-03","2022-07-09","false","24","50","false","TestTitle","36"
+"de90be2a-855e-4ff0-a39a-e24296ab6db1","Jon","2022-03-05","2022-07-09","false","48","50","true","Testing","48"
+"77c7cfd8-82de-4b67-a846-1f4fe3e9418e","LBC","2022-07-08","2022-07-07","false","96","200","true","ProjectTitle","84"
