@@ -11,3 +11,6 @@ It can also be run with a local instance through a local Docker container. To ru
 Best used with AWS CLI.**
 
 This app was designed for artists to upload, update, delete and view their own artwork as well as view others' uploaded works.
+
+FUTURE FEATURE:
+Upload a photo of the artwork to S3 on AWS
