@@ -13,4 +13,8 @@ Best used with AWS CLI.**
 This app was designed for artists to upload, update, delete and view their own artwork as well as view others' uploaded works.
 
 FUTURE FEATURE:
-Upload a photo of the artwork to S3 on AWS
+Upload a photo of the artwork to S3 on 
+
+PLEASE NOTE:
+This is a replication of the original product, some info has been changed.
+Also please recognize the two other parties who were involved in the creation of this project(See top of README).
