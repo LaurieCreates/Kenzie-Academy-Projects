@@ -17,4 +17,4 @@ Upload a photo of the artwork to S3 on AWS.
 
 PLEASE NOTE:
 This is a replication of the original product, some info has been changed.
-Also please recognize the two other parties who were involved in the creation of this project(See top of README).
+Also please recognize the two other parties who were involved in the creation of this project (See top of README).
